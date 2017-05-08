@@ -1,0 +1,8 @@
+PCA.py == Principle Component Analysis
+RIOT == Rotational Invariant Orientation Transformation
+QuEST01.py == Quaternion Estimation 01 == basic program of TRIAD algorithm
+Quaternion_walking.py == QuEST applied for walking data
+heading.py == gives heading using Quaternion's rotationally transformed data supplied to PCA algo
+allsensors.py == Analysis using the data from all the sensors
+FFT.py == code for implementing FFT algo
+Euler_from_Quaterinon01.py == header file/clas for various conversions of the Quaternion

@@ -1,0 +1,4 @@
+access accel gyro using JNI- Manoj Gudi
+Step detection algorithm
+Fast Fourrier transform
+Complementary filter
